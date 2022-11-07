@@ -1,0 +1,3 @@
+this is my static file in the blog
+<img scr="blog/static/blog/5001.jpg">
+<a href="{%static 'blog/static/blog/5001.jpg' %}">
